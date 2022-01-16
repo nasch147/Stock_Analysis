@@ -13,9 +13,12 @@ Overall, 2017 returns in the portfolio significantly outperformed returns for th
 ### Script Performance
 ![2017_Refactored_Runtime](2017_Runtime.png)
 ![2018_Refactored_Runtime](2018_Runtime.png)
+
 Overall, refactoring efforts resulted in approximately halving the macro's run time. 
 
+![Refactored_Loop](Refactored_Loop.png)
 
+The improvement in performance was primarily generated from a more efficient construction of the script. A new loop structure was employed looping through the data in the workbook once as opposed to each row or ticker repetitively. The use of arrays and indexes were also utilized to enhance performance and enhance its utilization on a broader scale. 
 
 ## Summary
 ### Advantages and Disadvantages of Refactoring

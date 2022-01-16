@@ -1,7 +1,8 @@
 # Stock_Analysis
 
-##Overview of Project
+##O verview of Project
 
-##Results
-###
+## Results
+
+
 ##Summary

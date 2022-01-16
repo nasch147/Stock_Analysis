@@ -14,7 +14,6 @@ Overall, 2017 reutrns in the porfolio significantly outperformed returns for the
 ### Advantages and Disadvantages of Refactoring
 The main advantage of refactoring code is to make the code more robust, more efficient, and easier to read and interpret. As is often the case, the first attempt in automating such an analysis through VBA can be inefficient and hastily constructed. As in the current instance, an original macro is often purpose-built to handle a specific scenario without thought to its application on a wider scale. The main disadvantage is the risk of corrupting the current code which works functionally well for its task at hand. It can also require a onerous level of coordination between the code development team. 
 
-### Refactoring as it Relates to the Current Project
 Following the incorporation of a more efficient loop structure, the macro ran significantly faster and would be much more appropriate for use in a larger data set. The code is also formatted and noted to be easier to read, understand, and build upon for future use. I did encounter several issues with the restructuring causing the script not to run which were eventually fixed with an amount of time and effort. 
 ---
 # Green Stock Analysis Dataset - [VBA_Challenge_Workbook]

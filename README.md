@@ -21,4 +21,4 @@ The main advantage of refactoring code is to make the code more robust, more eff
 Following the incorporation of a more efficient loop structure, the macro ran significantly faster and would be much more appropriate for use in a larger data set. The code is also formatted and noted to be easier to read, understand, and build upon for future use. I did encounter several issues with the restructuring causing the script not to run which were eventually fixed with an amount of time and effort. 
 
 ---
-# Green Stock Analysis Dataset - [VBA_Challenge_Workbook]
+# Green Stock Analysis Dataset - [VBA_Challenge_Workbook](VBA_Challenge.xlsm

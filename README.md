@@ -4,7 +4,7 @@
 The Client has asked for an analysis of the respective trading volumes and returns of 12 stocks in the green energy sector in 2017 and 2018. Originally, I prepared a macro to analyze this particular set of stocks.  Though the original macro performed the analysis much faster than manually manipulating the data, its run time gave rise to concerns regarding its scalability to larger data sets. the Client also expressed the interest to expand this macro to larger data sets. I was asked as to the ability to refactor the VBA code for the macro to reduce its run time. 
 
 ## Results
-### Stock Performace
+### Stock Performance
 ![2017_Returns](/Resources/2017_Returns.png)
 ![2018_Returns](/Resources/2018_Returns.png)
 

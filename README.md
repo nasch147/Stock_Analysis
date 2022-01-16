@@ -13,6 +13,8 @@ Overall, 2017 returns in the portfolio significantly outperformed returns for th
 ### Script Performance
 ![2017_Refactored_Runtime](2017_Runtime.png)
 ![2018_Refactored_Runtime](2018_Runtime.png)
+Overall, refactoring efforts resulted in approximately halving the macro's run time. 
+
 
 
 ## Summary

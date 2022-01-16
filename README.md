@@ -5,18 +5,18 @@ The Client has asked for an analysis of the respective trading volumes and retur
 
 ## Results
 ### Stock Performace
-![2017_Returns](2017_Returns.png)
-![2018_Returns](2018_Returns.png)
+![2017_Returns](/Resources/2017_Returns.png)
+![2018_Returns](/Resources/2018_Returns.png)
 
 Overall, 2017 returns in the portfolio significantly outperformed returns for the same in 2018. The size of the returns in each year and the drastic differences between the two years suggests a high degree of volatility.  Such levels of volatility in the portfolio present a significant investment risk. Of course, this must be balanced against the opportunity for outsized returns. These investments would be appropriate in the context that they would be incorporated as a relatively underweighted portion of a much larger, more well-diversified portfolio.
 
 ### Script Performance
-![2017_Refactored_Runtime](2017_Runtime.png)
-![2018_Refactored_Runtime](2018_Runtime.png)
+![2017_Refactored_Runtime](/Resources/2017_Runtime.png)
+![2018_Refactored_Runtime](/Resources/2018_Runtime.png)
 
 Overall, refactoring efforts resulted in approximately halving the macro's run time. 
 
-![Refactored_Loop](Refactored_Loop.png)
+![Refactored_Loop](/Resources/Refactored_Loop.png)
 
 The improvement in performance was primarily generated from a more efficient construction of the script. A new loop structure was employed looping through the data in the workbook once as opposed to each row or ticker repetitively. The use of arrays and indexes were also utilized to enhance performance and enhance its utilization on a broader scale. 
 

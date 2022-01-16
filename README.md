@@ -11,6 +11,8 @@ The Client has asked for an analysis of the respective trading volumes and retur
 Overall, 2017 returns in the portfolio significantly outperformed returns for the same in 2018. The size of the returns in each year and the drastic differences between the two years suggests a high degree of volatility.  Such levels of volatility in the portfolio present a significant investment risk. Of course, this must be balanced against the opportunity for outsized returns. These investments would be appropriate in the context that they would be incorporated as a relatively underweighted portion of a much larger, more well-diversified portfolio.
 
 ### Script Performance
+!2017_Refactored_Runtime](2017_Runtime.png)
+!2018_Refactored_Runtime](2018_Runtime.png)
 
 
 ## Summary
